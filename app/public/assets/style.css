@@ -1,0 +1,39 @@
+.container {
+    margin: auto;
+    width: 600px;
+}
+
+h1 {
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: 48px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+button {
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: 1px dashed black;
+    height: 50px;
+    width: 150px;
+    font-size: 14px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 300px;
+
+}
+
+a {
+    text-decoration: none;
+}
