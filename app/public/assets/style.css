@@ -3,17 +3,6 @@
     width: 600px;
 }
 
-h1 {
-    font-family: 'Bree Serif', serif;
-    text-align: center;
-    font-size: 48px;
-}
-
-p {
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
-}
-
 button {
     display: block;
     font-family: 'Open Sans', sans-serif;
@@ -37,6 +26,26 @@ img {
 a {
     text-decoration: none;
     color: black;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: 48px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 
 h4 {
