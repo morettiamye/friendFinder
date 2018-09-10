@@ -2,10 +2,6 @@
 var express = require("express");
 var bodyParser = require("body-parser");
 
-// Not needed?
-// var path = require("path");
-
-
 // Set Up Express Server
 var app = express();
 
