@@ -1,7 +1,9 @@
 // Defining requirements
 var express = require("express");
 var bodyParser = require("body-parser");
-var path = require("path");
+
+// Not needed?
+// var path = require("path");
 
 
 // Set Up Express Server
