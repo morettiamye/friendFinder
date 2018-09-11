@@ -14,3 +14,5 @@ module.exports = function(app) {
 
     });
 }
+
+// Need to add code for looping through the array to compare scores from the survey
